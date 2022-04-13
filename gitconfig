@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nomadic.nad@icloud.com
+	name = Nad K
